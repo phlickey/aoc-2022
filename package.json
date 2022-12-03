@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "workspaces": [
-    "01-a"
+    "01-a",
+    "01-b",
+    "02-a",
+    "02-b"
   ],
   "dependencies": {
     "ts-node": "^10.9.1",
